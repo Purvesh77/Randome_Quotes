@@ -10,7 +10,7 @@ body{
     align-items: center;
     text-align: center;
     font-size: 1.2rem;
-    background-color: rgb(88, 32, 74);
+/*     background-color: rgb(88, 32, 74); */
     background-image: url('./Galaxy2.jpg');
     margin-top: 150px;
 }
